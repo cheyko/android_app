@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_badge.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_calendar.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_chat.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_clipboard.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_globe.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_image.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_landmark.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_market.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_message.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_open_book.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_phone.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_play_circle.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_profile.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_search.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_send.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_settings.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_share.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_user_cog.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_videocam.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_wallet.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_chat.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_message.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/header_top.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/nav_body.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/nav_full.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/nav_header.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/nav_top.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/drawer_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
