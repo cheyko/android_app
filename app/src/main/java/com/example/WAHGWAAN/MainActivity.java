@@ -10,6 +10,7 @@ import androidx.fragment.app.Fragment;
 import android.content.Context;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.Toast;
 
 import com.example.WAHGWAAN.Components.LoginFragment;
@@ -17,6 +18,8 @@ import com.example.WAHGWAAN.Components.MessageFragment;
 import com.example.WAHGWAAN.Components.ProfileFragment;
 import com.example.WAHGWAAN.Components.TimelineFragment;
 
+import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
